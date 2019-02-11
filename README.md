@@ -1,5 +1,5 @@
 # image-augmentation
-A simple light weight CLI for augmenting image datasets for Machine learning applications.
+My simple light weight CLI for augmenting image datasets for my deep learning and ML experiments
 
 # Usage
 - To see the tool help enter "python3 imaug.py -h" on the terminal
